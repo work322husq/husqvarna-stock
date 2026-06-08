@@ -5446,7 +5446,7 @@
     <offer id="5859508-68">
       <article>5859508-68</article>
       <price>1</price>
-      <stock_quantity>1226</stock_quantity>
+      <stock_quantity>1197</stock_quantity>
       <date>09.06.2026</date>
     </offer>
     <offer id="5859508-72">
@@ -5562,6 +5562,12 @@
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date>07.07.2026</date>
+    </offer>
+    <offer id="5866623-07">
+      <article>5866623-07</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
     </offer>
     <offer id="5866623-13">
       <article>5866623-13</article>
@@ -10747,6 +10753,12 @@
       <stock_quantity>0</stock_quantity>
       <date>07.07.2026</date>
     </offer>
+    <offer id="9670931-01">
+      <article>9670931-01</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="9670932-01">
       <article>9670932-01</article>
       <price>1</price>
@@ -11179,12 +11191,6 @@
       <stock_quantity>9</stock_quantity>
       <date>09.06.2026</date>
     </offer>
-    <offer id="9676821-01">
-      <article>9676821-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9676882-03">
       <article>9676882-03</article>
       <price>1</price>
@@ -11268,12 +11274,6 @@
       <price>1</price>
       <stock_quantity>4</stock_quantity>
       <date>09.06.2026</date>
-    </offer>
-    <offer id="9678551-02">
-      <article>9678551-02</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="9678552-01">
       <article>9678552-01</article>
@@ -12436,8 +12436,8 @@
     <offer id="9706635-18">
       <article>9706635-18</article>
       <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date>06.10.2026</date>
+      <stock_quantity>29</stock_quantity>
+      <date>09.06.2026</date>
     </offer>
     <offer id="9706683-01">
       <article>9706683-01</article>
