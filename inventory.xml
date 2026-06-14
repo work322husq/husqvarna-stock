@@ -3211,12 +3211,6 @@
       <stock_quantity>2</stock_quantity>
       <date>15.06.2026</date>
     </offer>
-    <offer id="5471418-42">
-      <article>5471418-42</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="5471418-46">
       <article>5471418-46</article>
       <price>1</price>
@@ -3234,12 +3228,6 @@
       <price>1</price>
       <stock_quantity>1</stock_quantity>
       <date>15.06.2026</date>
-    </offer>
-    <offer id="5471418-58">
-      <article>5471418-58</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="5471418-62">
       <article>5471418-62</article>
@@ -5670,12 +5658,6 @@
       <price>1</price>
       <stock_quantity>2</stock_quantity>
       <date>15.06.2026</date>
-    </offer>
-    <offer id="5872357-01">
-      <article>5872357-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="5872357-02">
       <article>5872357-02</article>
@@ -10165,12 +10147,6 @@
       <stock_quantity>13</stock_quantity>
       <date>15.06.2026</date>
     </offer>
-    <offer id="5998053-02">
-      <article>5998053-02</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="5998312-01">
       <article>5998312-01</article>
       <price>1</price>
@@ -11923,20 +11899,8 @@
       <stock_quantity>92</stock_quantity>
       <date>15.06.2026</date>
     </offer>
-    <offer id="9705351-11">
-      <article>9705351-11</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9705351-55">
       <article>9705351-55</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
-    <offer id="9705352-11">
-      <article>9705352-11</article>
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date></date>
