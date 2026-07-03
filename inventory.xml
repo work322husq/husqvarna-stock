@@ -2149,6 +2149,12 @@
       <stock_quantity>1</stock_quantity>
       <date>04.07.2026</date>
     </offer>
+    <offer id="5368492-01">
+      <article>5368492-01</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5368492-02">
       <article>5368492-02</article>
       <price>1</price>
@@ -5701,12 +5707,6 @@
       <stock_quantity>0</stock_quantity>
       <date>31.10.2026</date>
     </offer>
-    <offer id="5874124-01">
-      <article>5874124-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="5874124-02">
       <article>5874124-02</article>
       <price>1</price>
@@ -8437,6 +8437,12 @@
       <stock_quantity>42</stock_quantity>
       <date>04.07.2026</date>
     </offer>
+    <offer id="5974963-02">
+      <article>5974963-02</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5974963-03">
       <article>5974963-03</article>
       <price>1</price>
@@ -8477,7 +8483,7 @@
       <article>5976353-02</article>
       <price>1</price>
       <stock_quantity>0</stock_quantity>
-      <date></date>
+      <date>02.08.2026</date>
     </offer>
     <offer id="5976592-36">
       <article>5976592-36</article>
@@ -11335,12 +11341,6 @@
       <stock_quantity>24</stock_quantity>
       <date>04.07.2026</date>
     </offer>
-    <offer id="9678938-14">
-      <article>9678938-14</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9678966-01">
       <article>9678966-01</article>
       <price>1</price>
@@ -11610,12 +11610,6 @@
       <price>1</price>
       <stock_quantity>1</stock_quantity>
       <date>04.07.2026</date>
-    </offer>
-    <offer id="9679879-14">
-      <article>9679879-14</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="9679888-01">
       <article>9679888-01</article>
