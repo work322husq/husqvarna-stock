@@ -1285,12 +1285,6 @@
       <stock_quantity>2</stock_quantity>
       <date>10.07.2026</date>
     </offer>
-    <offer id="5296660-02">
-      <article>5296660-02</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="5296660-03">
       <article>5296660-03</article>
       <price>1</price>
@@ -5707,6 +5701,12 @@
       <stock_quantity>0</stock_quantity>
       <date>06.11.2026</date>
     </offer>
+    <offer id="5874124-01">
+      <article>5874124-01</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5874124-02">
       <article>5874124-02</article>
       <price>1</price>
@@ -8477,7 +8477,7 @@
       <article>5976353-02</article>
       <price>1</price>
       <stock_quantity>0</stock_quantity>
-      <date>25.07.2026</date>
+      <date></date>
     </offer>
     <offer id="5976592-36">
       <article>5976592-36</article>
@@ -11215,12 +11215,6 @@
       <stock_quantity>5</stock_quantity>
       <date>10.07.2026</date>
     </offer>
-    <offer id="9678530-11">
-      <article>9678530-11</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9678533-11">
       <article>9678533-11</article>
       <price>1</price>
@@ -11665,12 +11659,6 @@
       <stock_quantity>0</stock_quantity>
       <date>28.08.2026</date>
     </offer>
-    <offer id="9704501-01">
-      <article>9704501-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9704571-01">
       <article>9704571-01</article>
       <price>1</price>
@@ -11740,8 +11728,8 @@
     <offer id="9704690-01">
       <article>9704690-01</article>
       <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
+      <stock_quantity>7</stock_quantity>
+      <date>10.07.2026</date>
     </offer>
     <offer id="9704717-11">
       <article>9704717-11</article>
