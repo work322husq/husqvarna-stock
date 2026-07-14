@@ -4828,7 +4828,7 @@
     <offer id="5816997-72">
       <article>5816997-72</article>
       <price>1</price>
-      <stock_quantity>5401</stock_quantity>
+      <stock_quantity>5396</stock_quantity>
       <date>15.07.2026</date>
     </offer>
     <offer id="5817543-01">
@@ -11323,12 +11323,6 @@
       <stock_quantity>24</stock_quantity>
       <date>15.07.2026</date>
     </offer>
-    <offer id="9678939-12">
-      <article>9678939-12</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9678966-01">
       <article>9678966-01</article>
       <price>1</price>
@@ -11692,7 +11686,7 @@
     <offer id="9704669-03">
       <article>9704669-03</article>
       <price>1</price>
-      <stock_quantity>148</stock_quantity>
+      <stock_quantity>147</stock_quantity>
       <date>15.07.2026</date>
     </offer>
     <offer id="9704680-01">
@@ -12019,12 +12013,6 @@
       <stock_quantity>18</stock_quantity>
       <date>15.07.2026</date>
     </offer>
-    <offer id="9705723-14">
-      <article>9705723-14</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9705724-14">
       <article>9705724-14</article>
       <price>1</price>
@@ -12082,7 +12070,7 @@
     <offer id="9706077-01">
       <article>9706077-01</article>
       <price>1</price>
-      <stock_quantity>11</stock_quantity>
+      <stock_quantity>9</stock_quantity>
       <date>15.07.2026</date>
     </offer>
     <offer id="9706078-01">
@@ -12124,7 +12112,7 @@
     <offer id="9706202-02">
       <article>9706202-02</article>
       <price>1</price>
-      <stock_quantity>26</stock_quantity>
+      <stock_quantity>25</stock_quantity>
       <date>15.07.2026</date>
     </offer>
     <offer id="9706202-04">
@@ -12532,7 +12520,7 @@
     <offer id="9707171-01">
       <article>9707171-01</article>
       <price>1</price>
-      <stock_quantity>82</stock_quantity>
+      <stock_quantity>80</stock_quantity>
       <date>15.07.2026</date>
     </offer>
     <offer id="9707172-01">
