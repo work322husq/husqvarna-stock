@@ -5689,12 +5689,6 @@
       <stock_quantity>0</stock_quantity>
       <date>28.11.2026</date>
     </offer>
-    <offer id="5874124-01">
-      <article>5874124-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="5874124-02">
       <article>5874124-02</article>
       <price>1</price>
@@ -8458,8 +8452,8 @@
     <offer id="5976353-02">
       <article>5976353-02</article>
       <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
+      <stock_quantity>2</stock_quantity>
+      <date>01.08.2026</date>
     </offer>
     <offer id="5976592-36">
       <article>5976592-36</article>
@@ -9774,18 +9768,6 @@
       <price>1</price>
       <stock_quantity>2</stock_quantity>
       <date>01.08.2026</date>
-    </offer>
-    <offer id="5992950-07">
-      <article>5992950-07</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
-    <offer id="5992950-08">
-      <article>5992950-08</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="5992952-02">
       <article>5992952-02</article>
@@ -11311,12 +11293,6 @@
       <stock_quantity>23</stock_quantity>
       <date>01.08.2026</date>
     </offer>
-    <offer id="9678938-14">
-      <article>9678938-14</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9678966-01">
       <article>9678966-01</article>
       <price>1</price>
@@ -12007,12 +11983,6 @@
       <stock_quantity>16</stock_quantity>
       <date>01.08.2026</date>
     </offer>
-    <offer id="9705724-14">
-      <article>9705724-14</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9705764-01">
       <article>9705764-01</article>
       <price>1</price>
@@ -12348,12 +12318,6 @@
       <price>1</price>
       <stock_quantity>12</stock_quantity>
       <date>01.08.2026</date>
-    </offer>
-    <offer id="9706530-11">
-      <article>9706530-11</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="9706543-11">
       <article>9706543-11</article>
