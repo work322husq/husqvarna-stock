@@ -10075,6 +10075,18 @@
       <stock_quantity>10</stock_quantity>
       <date>03.08.2026</date>
     </offer>
+    <offer id="5998052-02">
+      <article>5998052-02</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
+    <offer id="5998052-03">
+      <article>5998052-03</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5998053-01">
       <article>5998053-01</article>
       <price>1</price>
