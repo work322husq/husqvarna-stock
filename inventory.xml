@@ -4936,7 +4936,7 @@
     <offer id="5820869-64">
       <article>5820869-64</article>
       <price>1</price>
-      <stock_quantity>736</stock_quantity>
+      <stock_quantity>735</stock_quantity>
       <date>15.08.2026</date>
     </offer>
     <offer id="5820869-72">
@@ -5404,7 +5404,7 @@
     <offer id="5859508-68">
       <article>5859508-68</article>
       <price>1</price>
-      <stock_quantity>417</stock_quantity>
+      <stock_quantity>410</stock_quantity>
       <date>15.08.2026</date>
     </offer>
     <offer id="5859508-72">
@@ -5640,12 +5640,6 @@
       <price>1</price>
       <stock_quantity>1</stock_quantity>
       <date>15.08.2026</date>
-    </offer>
-    <offer id="5872361-01">
-      <article>5872361-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="5873726-01">
       <article>5873726-01</article>
@@ -8458,7 +8452,7 @@
     <offer id="5976353-02">
       <article>5976353-02</article>
       <price>1</price>
-      <stock_quantity>2</stock_quantity>
+      <stock_quantity>1</stock_quantity>
       <date>15.08.2026</date>
     </offer>
     <offer id="5976592-36">
@@ -9408,12 +9402,6 @@
       <price>1</price>
       <stock_quantity>51</stock_quantity>
       <date>15.08.2026</date>
-    </offer>
-    <offer id="5977031-01">
-      <article>5977031-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="5977031-02">
       <article>5977031-02</article>
@@ -11470,7 +11458,7 @@
     <offer id="9679677-01">
       <article>9679677-01</article>
       <price>1</price>
-      <stock_quantity>61</stock_quantity>
+      <stock_quantity>60</stock_quantity>
       <date>15.08.2026</date>
     </offer>
     <offer id="9679686-01">
@@ -12796,7 +12784,7 @@
     <offer id="9707931-14">
       <article>9707931-14</article>
       <price>1</price>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>4</stock_quantity>
       <date>15.08.2026</date>
     </offer>
     <offer id="9707932-14">
