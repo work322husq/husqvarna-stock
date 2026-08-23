@@ -12313,11 +12313,23 @@
       <stock_quantity>12</stock_quantity>
       <date>24.08.2026</date>
     </offer>
+    <offer id="9706541-11">
+      <article>9706541-11</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="9706543-11">
       <article>9706543-11</article>
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date>21.12.2026</date>
+    </offer>
+    <offer id="9706544-11">
+      <article>9706544-11</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
     </offer>
     <offer id="9706561-01">
       <article>9706561-01</article>
