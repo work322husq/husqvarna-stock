@@ -1639,6 +1639,12 @@
       <stock_quantity>0</stock_quantity>
       <date>02.10.2026</date>
     </offer>
+    <offer id="5361763-01">
+      <article>5361763-01</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5362534-01">
       <article>5362534-01</article>
       <price>1</price>
@@ -2512,7 +2518,7 @@
     <offer id="5468189-01">
       <article>5468189-01</article>
       <price>1</price>
-      <stock_quantity>949</stock_quantity>
+      <stock_quantity>947</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="5468189-02">
@@ -2760,12 +2766,6 @@
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date>22.01.2027</date>
-    </offer>
-    <offer id="5472801-01">
-      <article>5472801-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="5472888-01">
       <article>5472888-01</article>
@@ -3118,7 +3118,7 @@
     <offer id="5479298-02">
       <article>5479298-02</article>
       <price>1</price>
-      <stock_quantity>44</stock_quantity>
+      <stock_quantity>41</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="5479298-03">
@@ -3331,6 +3331,12 @@
       <stock_quantity>0</stock_quantity>
       <date>30.10.2026</date>
     </offer>
+    <offer id="5772530-54">
+      <article>5772530-54</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5772592-01">
       <article>5772592-01</article>
       <price>1</price>
@@ -3358,7 +3364,7 @@
     <offer id="5774197-02">
       <article>5774197-02</article>
       <price>1</price>
-      <stock_quantity>724</stock_quantity>
+      <stock_quantity>718</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="5774197-04">
@@ -7528,7 +7534,7 @@
     <offer id="5976689-21">
       <article>5976689-21</article>
       <price>1</price>
-      <stock_quantity>1262</stock_quantity>
+      <stock_quantity>1261</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="5976689-22">
@@ -8795,7 +8801,7 @@
       <article>9670919-01</article>
       <price>1</price>
       <stock_quantity>0</stock_quantity>
-      <date></date>
+      <date>10.10.2026</date>
     </offer>
     <offer id="9670989-01">
       <article>9670989-01</article>
@@ -9358,7 +9364,7 @@
     <offer id="9678665-05">
       <article>9678665-05</article>
       <price>1</price>
-      <stock_quantity>578</stock_quantity>
+      <stock_quantity>577</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="9678848-11">
@@ -9556,7 +9562,7 @@
     <offer id="9679740-11">
       <article>9679740-11</article>
       <price>1</price>
-      <stock_quantity>5</stock_quantity>
+      <stock_quantity>3</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="9679781-01">
@@ -10294,7 +10300,7 @@
     <offer id="9706504-15">
       <article>9706504-15</article>
       <price>1</price>
-      <stock_quantity>246</stock_quantity>
+      <stock_quantity>245</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="9706507-01">
@@ -10306,7 +10312,7 @@
     <offer id="9706508-01">
       <article>9706508-01</article>
       <price>1</price>
-      <stock_quantity>169</stock_quantity>
+      <stock_quantity>168</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="9706510-02">
@@ -10390,7 +10396,7 @@
     <offer id="9707026-15">
       <article>9707026-15</article>
       <price>1</price>
-      <stock_quantity>6</stock_quantity>
+      <stock_quantity>5</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="9707038-01">
@@ -10492,7 +10498,7 @@
     <offer id="9707185-18">
       <article>9707185-18</article>
       <price>1</price>
-      <stock_quantity>1148</stock_quantity>
+      <stock_quantity>1144</stock_quantity>
       <date>25.09.2026</date>
     </offer>
     <offer id="9707205-02">
