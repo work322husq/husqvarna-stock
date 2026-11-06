@@ -1081,17 +1081,17 @@
       <stock_quantity>0</stock_quantity>
       <date>12.12.2026</date>
     </offer>
+    <offer id="5295194-56">
+      <article>5295194-56</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5296660-01">
       <article>5296660-01</article>
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date>15.11.2026</date>
-    </offer>
-    <offer id="5296660-02">
-      <article>5296660-02</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="5296660-03">
       <article>5296660-03</article>
@@ -3445,6 +3445,12 @@
       <stock_quantity>0</stock_quantity>
       <date>12.12.2026</date>
     </offer>
+    <offer id="5477897-54">
+      <article>5477897-54</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5478122-36">
       <article>5478122-36</article>
       <price>1</price>
@@ -4506,12 +4512,6 @@
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date>12.12.2026</date>
-    </offer>
-    <offer id="5850194-01">
-      <article>5850194-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="5850197-02">
       <article>5850197-02</article>
@@ -8131,12 +8131,6 @@
       <stock_quantity>0</stock_quantity>
       <date>24.11.2026</date>
     </offer>
-    <offer id="5977031-01">
-      <article>5977031-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="5977036-01">
       <article>5977036-01</article>
       <price>1</price>
@@ -10293,12 +10287,6 @@
     </offer>
     <offer id="9704496-01">
       <article>9704496-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
-    <offer id="9704501-01">
-      <article>9704501-01</article>
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date></date>
