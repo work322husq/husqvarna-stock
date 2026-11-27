@@ -1459,6 +1459,12 @@
       <stock_quantity>3</stock_quantity>
       <date>28.11.2026</date>
     </offer>
+    <offer id="5314280-42">
+      <article>5314280-42</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5314506-01">
       <article>5314506-01</article>
       <price>1</price>
@@ -3097,6 +3103,18 @@
       <stock_quantity>0</stock_quantity>
       <date>02.01.2027</date>
     </offer>
+    <offer id="5471434-58">
+      <article>5471434-58</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
+    <offer id="5471434-62">
+      <article>5471434-62</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="5471585-50">
       <article>5471585-50</article>
       <price>1</price>
@@ -4230,12 +4248,6 @@
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date>27.12.2026</date>
-    </offer>
-    <offer id="5808003-01">
-      <article>5808003-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="5809753-10">
       <article>5809753-10</article>
@@ -7237,12 +7249,6 @@
       <stock_quantity>0</stock_quantity>
       <date>02.01.2027</date>
     </offer>
-    <offer id="5969358-12">
-      <article>5969358-12</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="5969359-11">
       <article>5969359-11</article>
       <price>1</price>
@@ -7368,6 +7374,12 @@
       <price>1</price>
       <stock_quantity>1</stock_quantity>
       <date>28.11.2026</date>
+    </offer>
+    <offer id="5974183-01">
+      <article>5974183-01</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
     </offer>
     <offer id="5974682-01">
       <article>5974682-01</article>
@@ -8869,6 +8881,12 @@
       <stock_quantity>0</stock_quantity>
       <date>25.12.2026</date>
     </offer>
+    <offer id="9650709-01">
+      <article>9650709-01</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="9651480-01">
       <article>9651480-01</article>
       <price>1</price>
@@ -9252,6 +9270,12 @@
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date>05.12.2026</date>
+    </offer>
+    <offer id="9668330-01">
+      <article>9668330-01</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
     </offer>
     <offer id="9669684-01">
       <article>9669684-01</article>
@@ -9973,6 +9997,12 @@
       <stock_quantity>556</stock_quantity>
       <date>28.11.2026</date>
     </offer>
+    <offer id="9678845-02">
+      <article>9678845-02</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="9678848-11">
       <article>9678848-11</article>
       <price>1</price>
@@ -10020,6 +10050,12 @@
       <price>1</price>
       <stock_quantity>0</stock_quantity>
       <date>26.12.2026</date>
+    </offer>
+    <offer id="9679155-03">
+      <article>9679155-03</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
     </offer>
     <offer id="9679158-13">
       <article>9679158-13</article>
@@ -10147,6 +10183,12 @@
       <stock_quantity>0</stock_quantity>
       <date>16.01.2027</date>
     </offer>
+    <offer id="9679414-06">
+      <article>9679414-06</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="9679420-01">
       <article>9679420-01</article>
       <price>1</price>
@@ -10219,12 +10261,6 @@
       <stock_quantity>0</stock_quantity>
       <date>27.12.2026</date>
     </offer>
-    <offer id="9679761-02">
-      <article>9679761-02</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
-    </offer>
     <offer id="9679781-01">
       <article>9679781-01</article>
       <price>1</price>
@@ -10290,12 +10326,6 @@
       <price>1</price>
       <stock_quantity>18</stock_quantity>
       <date>28.11.2026</date>
-    </offer>
-    <offer id="9679910-01">
-      <article>9679910-01</article>
-      <price>1</price>
-      <stock_quantity>0</stock_quantity>
-      <date></date>
     </offer>
     <offer id="9683654-01">
       <article>9683654-01</article>
@@ -10771,11 +10801,23 @@
       <stock_quantity>4</stock_quantity>
       <date>28.11.2026</date>
     </offer>
+    <offer id="9705723-14">
+      <article>9705723-14</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
+    </offer>
     <offer id="9705764-01">
       <article>9705764-01</article>
       <price>1</price>
       <stock_quantity>2</stock_quantity>
       <date>28.11.2026</date>
+    </offer>
+    <offer id="9705927-01">
+      <article>9705927-01</article>
+      <price>1</price>
+      <stock_quantity>0</stock_quantity>
+      <date></date>
     </offer>
     <offer id="9706008-01">
       <article>9706008-01</article>
